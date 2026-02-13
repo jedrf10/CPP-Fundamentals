@@ -1,1 +1,0 @@
-Esta carpeta contiene implementaciones en C++ enfocadas en la manipulación y validación de datos cronológicos. El objetivo de estos programas es dominar el uso de estructuras condicionales complejas y operadores aritméticos avanzados.
