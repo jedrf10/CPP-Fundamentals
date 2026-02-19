@@ -10,10 +10,10 @@ int main (){
 	while (true)
 	{
 		
-		cout << "Por favor ingresa un año: " << endl;
+		cout << "Por favor ingresa un aÃ±o: " << endl;
 		if (cin >> y && y > 0)
 		{
-		break; // Si el año es correcto el programa continua	
+		break; // Si el aÃ±o es correcto el programa continua	
 		}else 
 		{
 		
