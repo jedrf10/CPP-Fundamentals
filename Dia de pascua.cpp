@@ -8,10 +8,10 @@ int main ()
 	
 	int year, a, b, c, d, e;
 	
-	cout << "Ingresa un año: " << endl;
+	cout << "Ingresa un aÃ±o: " << endl;
 	cin >> year;
 	
-	//Formula de Gauss por el año
+	//Formula de Gauss por el aÃ±o
 	a = year % 19;
 	b = year % 4;
 	c = year % 7;
